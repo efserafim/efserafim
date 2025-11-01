@@ -3,7 +3,7 @@
 ![banner](https://img.shields.io/badge/Eduardo--Ferreira--Serafim-Dev-blue?style=for-the-badge&logo=github)
 
 [![GitHub](https://img.shields.io/badge/GitHub-efserafim-181717?style=flat&logo=github&logoColor=white)](https://github.com/efserafim/)
-[![Universidade](https://img.shields.io/badge/Universidade-Vassouras-007ACC?style=flat&logo=university)](https://www.uva.br/)
+[![Universidade](https://img.shields.io/badge/Universidade-Vassouras-007ACC?style=flat&logo=university)](https://univassouras.edu.br/)
 
 ---
 

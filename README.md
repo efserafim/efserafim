@@ -94,30 +94,48 @@ const eduardo = {
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h3>📋 Projeto A</h3>
-      <p><strong>Sistema de Cadastro</strong></p>
-      <p>Aplicação Java com persistência de dados e interface intuitiva</p>
+      <h3>🏥 Agendamento Médico</h3>
+      <p><strong>Sistema de Gestão de Clínicas</strong></p>
+      <p>Aplicação desktop desenvolvida em C# para gerenciamento de consultas médicas</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/efserafim/agendamentomedico">
+          <img src="https://img.shields.io/badge/Ver_Projeto-181717?style=flat&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
     <td align="center" width="33%">
-      <h3>✅ Projeto B</h3>
-      <p><strong>To-Do Web App</strong></p>
-      <p>Aplicação full-stack com React no frontend e Flask no backend</p>
+      <h3>🏗️ EasyConstrul</h3>
+      <p><strong>Plataforma de Construção Civil</strong></p>
+      <p>Sistema web Flask conectando trabalhadores, clientes e fornecedores de materiais</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/efserafim/easyconstrul">
+          <img src="https://img.shields.io/badge/Ver_Projeto-181717?style=flat&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
     <td align="center" width="33%">
-      <h3>📊 Projeto C</h3>
-      <p><strong>Análise de Dados</strong></p>
-      <p>Visualização e análise de dados com Python e Pandas</p>
+      <h3>🎮 GOW Projeto</h3>
+      <p><strong>Landing Page Interativa</strong></p>
+      <p>Site responsivo com design moderno utilizando SCSS e JavaScript</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      </p>
+      <p>
+        <a href="https://github.com/efserafim/GOW_Projeto">
+          <img src="https://img.shields.io/badge/Ver_Projeto-181717?style=flat&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>

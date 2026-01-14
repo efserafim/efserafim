@@ -77,7 +77,7 @@ const eduardo = {
 
 | 🏫 Instituição | 📚 Curso | 📅 Período | 🎯 Status |
 |:---:|:---:|:---:|:---:|
-| **Universidade de Vassouras** | Graduação em Tecnologia | 7º Período | 🟢 Em Andamento |
+| **Universidade de Vassouras** | Graduação em Tecnologia | 8º Período | 🟢 Em Andamento |
 
 </div>
 

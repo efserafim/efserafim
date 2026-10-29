@@ -48,22 +48,6 @@ Atuo como freelancer e também como voluntário, desenvolvendo sistemas para eve
 
 ---
 
-## Projetos em destaque
-
-### 🎟️ IngressOK: plataforma de venda de ingressos
-Sistema completo para eventos: venda de ingressos, pagamentos **PIX e cartão (PagSeguro)**, geração de **QR Code**, e-mails automáticos, painel administrativo e dashboard do organizador. Acompanha um app de leitura de ingressos (scanner).
-`Node.js` `TypeScript` `PostgreSQL` `Flutter` `PagSeguro`
-🔗 [link do repositório ou demo]
-
-### 📅 Sistema de gestão de eventos comunitários
-Pré-inscrição, inscrição em grupo, **conferência de pagamento PIX por comprovante (OCR)** e check-in por QR Code. Em produção para eventos de comunidade.
-`Node.js` `PostgreSQL` `Render`
-🔗 [link do repositório ou demo]
-
-### 🍳 SaborApp: gerenciador de receitas
-Aplicativo mobile para cadastro e organização de receitas.
-`Flutter` `Dart`
-🔗 [link do repositório]
 
 ### Outros projetos
 

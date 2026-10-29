@@ -1,222 +1,104 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Eduardo Ferreira Serafim
+# Eduardo Ferreira Serafim
 
-### Desenvolvedor em Formação | Estudante de Graduação | Tech Enthusiast
+### Desenvolvedor Full Stack · React · Node.js · TypeScript · Flutter
 
-[![GitHub](https://img.shields.io/badge/GitHub-efserafim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/efserafim/)
-[![Instagram](https://img.shields.io/badge/Instagram-efserafim-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/efserafim/)
-[![Email](https://img.shields.io/badge/Email-efserafim@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:efserafim@hotmail.com)
+Engenharia de Software (Univassouras, formatura em dez/2026) · Pós-graduando em Redes, Cloud e IA
+Saquarema, RJ · 🟢 Aberto a vagas **júnior/estágio** (remoto)
 
-<img src="https://komarev.com/ghpvc/?username=efserafim&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views" />
-
-</div>
-
----
-
-## 🧑‍💻 Sobre Mim
-
-```typescript
-const eduardo = {
-    nome: "Eduardo Ferreira Serafim",
-    idade: 29,
-    localização: "Brasil 🇧🇷",
-    educação: {
-        instituição: "Universidade de Vassouras",
-        período: "7º Período",
-        status: "Em Andamento"
-    },
-    foco: ["Desenvolvimento Web", "Engenharia de Software", "Boas Práticas"],
-    objetivo: "Transformar ideias em código limpo e eficiente",
-    disponível_para: ["Estágios", "Projetos Open Source", "Colaborações"]
-};
-```
-
-<div align="center">
-
-### 💭 *"Apaixonado por desenvolvimento de software e soluções elegantes"*
-
-</div>
-
----
-
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-
-### Linguagens de Programação
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Ferramentas & Tecnologias
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Conceitos & Práticas
-`POO` • `APIs REST` • `Testes Unitários` • `Clean Code` • `Modelagem de Dados` • `Git Flow`
-
-</div>
-
----
-
-## 🎓 Formação Acadêmica
-
-<div align="center">
-
-| 🏫 Instituição | 📚 Curso | 📅 Período | 🎯 Status |
-|:---:|:---:|:---:|:---:|
-| **Universidade de Vassouras** | Graduação em Tecnologia | 8º Período | 🟢 Em Andamento |
-
-</div>
-
----
-
-## 💼 Projetos em Destaque
-
-<div align="center">
-
-### 🔥 Repositórios que mostram minhas habilidades
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🏥 Agendamento Médico</h3>
-      <p><strong>Sistema de Gestão de Clínicas</strong></p>
-      <p>Aplicação desktop desenvolvida em C# para gerenciamento de consultas médicas</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/efserafim/agendamentomedico">
-          <img src="https://img.shields.io/badge/Ver_Projeto-181717?style=flat&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🏗️ EasyConstrul</h3>
-      <p><strong>Plataforma de Construção Civil</strong></p>
-      <p>Sistema web Flask conectando trabalhadores, clientes e fornecedores de materiais</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/efserafim/easyconstrul">
-          <img src="https://img.shields.io/badge/Ver_Projeto-181717?style=flat&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎮 GOW Projeto</h3>
-      <p><strong>Landing Page Interativa</strong></p>
-      <p>Site responsivo com design moderno utilizando SCSS e JavaScript</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </p>
-      <p>
-        <a href="https://github.com/efserafim/GOW_Projeto">
-          <img src="https://img.shields.io/badge/Ver_Projeto-181717?style=flat&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-### 🔗 *Confira todos os meus projetos no [GitHub](https://github.com/efserafim?tab=repositories)*
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=efserafim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efserafim&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=efserafim&theme=tokyonight)
-
-</div>
-
----
-
-## 🌟 Destaques & Objetivos
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Eduardo))
-    Aprendizado
-      Projetos Práticos
-      Estruturas de Dados
-      Design Patterns
-      Clean Architecture
-    Colaboração
-      Open Source
-      Code Review
-      Pair Programming
-    Objetivos
-      Estágio/Vaga Jr
-      Contribuir com Comunidade
-      Desenvolvimento Contínuo
-```
-
-</div>
-
-### 🎯 Atualmente
-
-- 📚 Aprofundando conhecimentos em **Engenharia de Software** e **Arquitetura Limpa**
-- 🔨 Desenvolvendo projetos práticos que aplicam **lógica** e **estruturas de dados**
-- 🤝 Aberto a **oportunidades de estágio** e **colaborações em projetos open-source**
-- 🌱 Sempre aprendendo e evoluindo através de **hackathons** e **desafios de código**
-
----
-
-## 📬 Entre em Contato
-
-<div align="center">
-
-### 💬 *Vamos conversar sobre tecnologia, projetos ou oportunidades!*
-
-[![GitHub](https://img.shields.io/badge/GitHub-efserafim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/efserafim/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-efserafim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efserafim)
+[![Email](https://img.shields.io/badge/Email-efserafimflu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:efserafimflu@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@efserafim-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/efserafim/)
-[![Email](https://img.shields.io/badge/Email-efserafim@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:efserafim@hotmail.com)
 
 </div>
 
 ---
 
+## Sobre
+
+Construo aplicações web e mobile de ponta a ponta: interface em React, API em Node.js/TypeScript, banco PostgreSQL e apps em Flutter. Gosto de resolver problemas reais, com foco em **código limpo, segurança, escalabilidade e deploy em produção**.
+
+Atuo como freelancer e também como voluntário, desenvolvendo sistemas para eventos e projetos comunitários. Antes disso, passei por estágio de front-end (React, APIs REST) e por quase 2 anos de suporte tecnológico na Secretaria de Educação de Saquarema.
+
+**Em paralelo à graduação, curso 3 pós-graduações na Faculdade Líbano:**
+- Engenharia de Redes e Segurança de Dados
+- Infraestrutura de Redes, Big Data e Computação em Nuvem
+- Inteligência Artificial
+
+---
+
+## Stack
+
 <div align="center">
 
-### ⭐ *Se você gostou do meu perfil, deixe uma estrela nos repositórios!*
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,express,postgres,prisma,flutter,dart,docker,git,github,supabase,java,python&perline=9" alt="Tecnologias" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+| Área | Tecnologias |
+|:---|:---|
+| **Front-end** | React.js, TypeScript, JavaScript, HTML5, CSS3 |
+| **Back-end** | Node.js, Express/Fastify, REST APIs, JWT, Prisma ORM |
+| **Mobile** | Flutter, Dart |
+| **Banco de dados** | PostgreSQL, Supabase, MySQL, SQLite |
+| **DevOps e ferramentas** | Docker, Git/GitHub, Render, Netlify |
+| **Outras linguagens** | Java, Python |
+| **Práticas** | Clean Code, Clean Architecture, POO, APIs REST, Testes Unitários, Git Flow |
+
+---
+
+## Projetos em destaque
+
+### 🎟️ IngressOK: plataforma de venda de ingressos
+Sistema completo para eventos: venda de ingressos, pagamentos **PIX e cartão (PagSeguro)**, geração de **QR Code**, e-mails automáticos, painel administrativo e dashboard do organizador. Acompanha um app de leitura de ingressos (scanner).
+`Node.js` `TypeScript` `PostgreSQL` `Flutter` `PagSeguro`
+🔗 [link do repositório ou demo]
+
+### 📅 Sistema de gestão de eventos comunitários
+Pré-inscrição, inscrição em grupo, **conferência de pagamento PIX por comprovante (OCR)** e check-in por QR Code. Em produção para eventos de comunidade.
+`Node.js` `PostgreSQL` `Render`
+🔗 [link do repositório ou demo]
+
+### 🍳 SaborApp: gerenciador de receitas
+Aplicativo mobile para cadastro e organização de receitas.
+`Flutter` `Dart`
+🔗 [link do repositório]
+
+### Outros projetos
+
+| Projeto | Descrição | Stack |
+|:---|:---|:---|
+| [EasyConstrul](https://github.com/efserafim/easyconstrul) | Plataforma web que conecta trabalhadores, clientes e fornecedores da construção civil | Python, Flask, SQLAlchemy |
+| [Agendamento Médico](https://github.com/efserafim/agendamentomedico) | Aplicativo desktop para gestão de consultas médicas | C#, .NET, SQLite |
+| [GOW Projeto](https://github.com/efserafim/GOW_Projeto) | Landing page responsiva e interativa | HTML5, SCSS, JavaScript |
+
+---
+
+## Formação
+
+| Instituição | Curso | Status |
+|:---|:---|:---|
+| Universidade de Vassouras (Univassouras) | Bacharelado em Engenharia de Software | Conclusão prevista: dez/2026 |
+| Faculdade Líbano | Pós-graduação em Engenharia de Redes e Segurança de Dados | Cursando |
+| Faculdade Líbano | Pós-graduação em Infraestrutura de Redes, Big Data e Computação em Nuvem | Cursando |
+| Faculdade Líbano | Pós-graduação em Inteligência Artificial | Cursando |
+
+---
+
+## Foco atual
+
+- 🔨 Evoluindo meus sistemas de eventos e pagamentos (segurança, performance e escalabilidade)
+- ☁️ Aprofundando redes, segurança e arquitetura em nuvem
+- 🤖 Estudando Inteligência Artificial aplicada ao desenvolvimento de software
+- 💼 Buscando minha primeira vaga como **desenvolvedor júnior** (full stack ou front-end), inclusive remota
+
+---
+
+<div align="center">
+
+### Vamos conversar sobre tecnologia, projetos ou oportunidades!
+
+[LinkedIn](https://www.linkedin.com/in/efserafim) · [Email](mailto:efserafimflu@gmail.com) · [Instagram](https://www.instagram.com/efserafim/)
 
 </div>
